@@ -13,12 +13,12 @@ https://github.com/JohnKimaiyo/Fly-Emirates-Ticket-Pricing-Data/blob/main/Images
 https://github.com/JohnKimaiyo/Fly-Emirates-Ticket-Pricing-Data/blob/main/Images/Top%20Ariival%20Times.PNG
 
 
-4. Provide the Top 5 Destination Cities with the highest ticket prices
-https://console.cloud.google.com/bigquery?sq=412589982262:6b5d597b9fbc4e9bbfdeb5719343fd11
+4. Provide the Top Destination Cities with the highest ticket prices
+https://github.com/JohnKimaiyo/Fly-Emirates-Ticket-Pricing-Data/blob/main/Images/Top%20Destination%20Cities.PNG
 
 
 5. Compare pricing of Business class and Economy Class
-https://console.cloud.google.com/bigquery?sq=412589982262:6b5d597b9fbc4e9bbfdeb5719343fd11
+https://github.com/JohnKimaiyo/Fly-Emirates-Ticket-Pricing-Data/blob/main/Images/Count%20Number%20of%20Stops.PNG
 
 
 6. Categories the total number of stops
