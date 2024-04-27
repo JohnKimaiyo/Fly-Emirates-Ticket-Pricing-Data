@@ -3,9 +3,7 @@ Fly Emirates  Ticket Price EDA  using  Google BigQuery
 Objective Answer the below questions
 
 1. Provide the Top 5 destination with the Highest Prices
-
-https://console.cloud.google.com/bigquery?sq=412589982262:6b5d597b9fbc4e9bbfdeb5719343fd11
-
+https://github.com/JohnKimaiyo/Fly-Emirates-Ticket-Pricing-Data/blob/main/Images/Top%20Destinations%20with%20the%20hightest%20Tikcet%20Prices.PNG
 
 2. Provide the Top 5 departure  times with the highest ticket prices
 https://console.cloud.google.com/bigquery?sq=412589982262:6b5d597b9fbc4e9bbfdeb5719343fd11
@@ -24,9 +22,5 @@ https://console.cloud.google.com/bigquery?sq=412589982262:6b5d597b9fbc4e9bbfdeb5
 
 
 6. Categories the total number of stops
-https://console.cloud.google.com/bigquery?sq=412589982262:6b5d597b9fbc4e9bbfdeb5719343fd11
+https://github.com/JohnKimaiyo/Fly-Emirates-Ticket-Pricing-Data/blob/main/Images/Count%20Number%20of%20Stops.PNG
 
-SELECT stops, count(stops) As_Number_of_stops
-FROM `fly-emirates-421608.FlyEmiratesTicketProices2024.TicketPrices`
-GROUP BY stops
-ORDER BY As_Number_of_stops DESC
