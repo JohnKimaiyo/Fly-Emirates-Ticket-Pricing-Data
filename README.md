@@ -15,3 +15,6 @@ https://console.cloud.google.com/bigquery?sq=412589982262:6b5d597b9fbc4e9bbfdeb5
 
 4.Provide the Top 5 Destination Cities with the highest ticket prices
 https://console.cloud.google.com/bigquery?sq=412589982262:6b5d597b9fbc4e9bbfdeb5719343fd11
+
+5.Compare pricing of Bisness class and Economy Class
+https://console.cloud.google.com/bigquery?sq=412589982262:6b5d597b9fbc4e9bbfdeb5719343fd11
