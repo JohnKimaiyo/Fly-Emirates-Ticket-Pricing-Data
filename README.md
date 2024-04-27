@@ -12,3 +12,6 @@ https://console.cloud.google.com/bigquery?sq=412589982262:6b5d597b9fbc4e9bbfdeb5
 
 3.Provide the Top 5 arrival  times with the highest ticket prices
 https://console.cloud.google.com/bigquery?sq=412589982262:6b5d597b9fbc4e9bbfdeb5719343fd11
+
+4.Provide the Top 5 Destination Cities with the highest ticket prices
+https://console.cloud.google.com/bigquery?sq=412589982262:6b5d597b9fbc4e9bbfdeb5719343fd11
