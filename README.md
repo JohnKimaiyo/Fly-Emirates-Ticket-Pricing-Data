@@ -6,7 +6,7 @@ Objective Answer the below questions
 https://github.com/JohnKimaiyo/Fly-Emirates-Ticket-Pricing-Data/blob/main/Images/Top%20Destinations%20with%20the%20hightest%20Tikcet%20Prices.PNG
 
 2. Provide the Top 5 departure  times with the highest ticket prices
-https://console.cloud.google.com/bigquery?sq=412589982262:6b5d597b9fbc4e9bbfdeb5719343fd11
+https://github.com/JohnKimaiyo/Fly-Emirates-Ticket-Pricing-Data/blob/main/Images/Top%20Destinations%20with%20the%20hightest%20Tikcet%20Prices.PNG
 
 
 3. Provide the Top 5 arrival  times with the highest ticket prices
