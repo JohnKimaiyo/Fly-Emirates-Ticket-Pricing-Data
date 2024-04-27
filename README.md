@@ -6,5 +6,9 @@ Objective Answer the below questions
 
 https://console.cloud.google.com/bigquery?sq=412589982262:6b5d597b9fbc4e9bbfdeb5719343fd11
 
-2.Provide the Top 5 departtimes with the highest ticket prices
+
+2.Provide the Top 5 departure  times with the highest ticket prices
+https://console.cloud.google.com/bigquery?sq=412589982262:6b5d597b9fbc4e9bbfdeb5719343fd11
+
+3.Provide the Top 5 arrival  times with the highest ticket prices
 https://console.cloud.google.com/bigquery?sq=412589982262:6b5d597b9fbc4e9bbfdeb5719343fd11
