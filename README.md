@@ -25,3 +25,8 @@ https://console.cloud.google.com/bigquery?sq=412589982262:6b5d597b9fbc4e9bbfdeb5
 
 6. Categories the total number of stops
 https://console.cloud.google.com/bigquery?sq=412589982262:6b5d597b9fbc4e9bbfdeb5719343fd11
+
+SELECT stops, count(stops) As_Number_of_stops
+FROM `fly-emirates-421608.FlyEmiratesTicketProices2024.TicketPrices`
+GROUP BY stops
+ORDER BY As_Number_of_stops DESC
